@@ -121,7 +121,7 @@
 - Custom instructions cho GitHub Copilot
 - MCP servers integration
 
-- **Source**: 📂 [BT1_VideCopilot_Nguyễn Hồng Thắm_nhóm 11](./BT1_VideCopilot_Nguyễn%20Hồng%20Thắm_nhóm%2011/)
+- **Source**: 📂 "https://github.com/nhien-coderdom/GroupSeminarGenAI"
 - **Commit log**: 💾 feat: báo cáo bài tập nhóm: GitHub Copilot Vibe Coding Workshop
 
 ---
